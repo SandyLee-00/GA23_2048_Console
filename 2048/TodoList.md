@@ -20,7 +20,9 @@
 - [x]  전체 로직 체크하기
 - [x]  Game isGameWin : 2048 있는지 체크하기
     
+    
 - [x]  Game move 함수들에서 추가된 점수 리턴받기 ← Score showScore 점수 표시
+    
     
 - [x]  Board addTile 점수 바뀌었는지 체크하고 실행하기 ← 0 체크해서 랜덤한 위치 생성하기
 - [x]  UI printMoveScore : 숫자 몇 점씩 더해지는지 표시하기
@@ -66,7 +68,7 @@
 - 추천 방향키 되도록 만들기
 - Sound EFFECT
 
-### 이서영
+---
 
 ### 김주영
 
@@ -78,6 +80,12 @@
 - UI 형태 잡기
 - Double Buffer 써서 출력 부분 마저 만들기
 - Score writeScore 랭킹 텍스트 파일로 저장하기 - 최고 점수 내림차순
+
+---
+
+---
+
+### 이서영
 
 - [ ]  Score showScore 점수 표시
 - [ ]  Score getBestScore 베스트 스코어
